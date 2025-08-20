@@ -1,0 +1,12 @@
+# project.toml
+[project]
+name = "analyse"
+version = "0.1.0"
+description = "analyse project"
+authors = [{ name = "Luc Cerisy", email = "lvm.cerisy@gamil.com" }]
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
